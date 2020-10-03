@@ -1,0 +1,21 @@
+1) FRED-DTB3 - 3months Fred Treasury bill rate in secondary market
+	Link: https://www.quandl.com/data/FRED/DTB3-3-Month-Treasury-Bill-Secondary-Market-Rate
+
+2) USTREASURY-LONGTERMRATES - Composite Long term bond yield
+	Link: https://www.quandl.com/data/USTREASURY/LONGTERMRATES-Treasury-Long-Term-Rates
+
+3) USTREASURY-LONGTERMRATES - 3 months libor rate
+	Link: https://www.quandl.com/data/FRED/LIOR3M-3-month-London-Interbank-Offered-Rate-LIBOR
+
+4) FRED-DGS3MO -  3 months tbill constant maturity rate
+	Link: https://www.quandl.com/data/FRED/DGS3MO-3-Month-Treasury-Constant-Maturity-Rate
+
+5) Change in Credit Spread
+	Link:https://research.stlouisfed.org/useraccount/datalists/250349
+
+6) Change in 3 months yield
+	https://fred.stlouisfed.org/categories/116
+
+7) Weekly Market Return - yfinance
+
+8) Equity volatility - Wrds
